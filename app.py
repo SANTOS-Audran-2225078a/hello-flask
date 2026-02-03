@@ -5,4 +5,4 @@ def hello_world():
     return 'Hello, World!'
 @app.route('/home')
 def home():
-    return 'Voici la page d'accueil'
+    return 'Voici le nouveaux accueil'
